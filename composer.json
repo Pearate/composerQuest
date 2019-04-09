@@ -13,8 +13,7 @@
 
     "autoload": {
         "psr-4": {
-        "app\\":"src/",
-        "HelloWorld\\": "src/"
+        "app\\":"src/"
         }
     }
 }
